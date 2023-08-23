@@ -1,4 +1,4 @@
-# GitHub Pages Tutorial
+# OFDIR GitHub Pages Tutorial
 
 This workshop is documented in a readthedocs.org site.  It has **Pages** on the left side, page level **Table of contents** on the right side, a **Search bar** in the top right, and **Previous/Next** navigation along the bottom.
 
