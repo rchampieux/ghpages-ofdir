@@ -1,6 +1,8 @@
-# BioData Club GitHub Pages Tutorial
+# OFDIR GitHub Pages Tutorial
 
-Authors: Ted Laderas, Robin Champieux, Eric Leung, Eric Earl, and Marijane White
+Presenter: Robin Champieux
+
+Original Authors: Ted Laderas, Robin Champieux, Eric Leung, Eric Earl, and Marijane White
 
 With GitHub, you can create a personal website using GitHub Pages.
 
