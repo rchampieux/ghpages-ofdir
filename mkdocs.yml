@@ -7,7 +7,7 @@ plugins:
 
 docs_dir: docs
 
-pages:
+nav:
     - Lesson Plan: index.md
     - 1 - A Personal Website for Professional Outreach: lessons/1.md
     - 2 - Publishing a GitHub Page: lessons/2.md
